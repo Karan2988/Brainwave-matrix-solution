@@ -9,25 +9,25 @@ We have gathered data from various age groups and genders to provide a comprehen
 Content
 Attribute Information:
 
-invoice_no: Invoice number. Nominal. A combination of the letter 'I' and a 6-digit integer uniquely assigned to each operation.
+1. invoice_no: Invoice number. Nominal. A combination of the letter 'I' and a 6-digit integer uniquely assigned to each operation.
 
-customer_id: Customer number. Nominal. A combination of the letter 'C' and a 6-digit integer uniquely assigned to each operation.
+2. customer_id: Customer number. Nominal. A combination of the letter 'C' and a 6-digit integer uniquely assigned to each operation.
 
-gender: String variable of the customer's gender.
+3. gender: String variable of the customer's gender.
 
-age: Positive Integer variable of the customers age.
+4. age: Positive Integer variable of the customers age.
 
-category: String variable of the category of the purchased product.
+5. category: String variable of the category of the purchased product.
 
-quantity: The quantities of each product (item) per transaction. Numeric.
+6. quantity: The quantities of each product (item) per transaction. Numeric.
 
-price: Unit price. Numeric. Product price per unit in Turkish Liras (TL).
+7. price: Unit price. Numeric. Product price per unit in Turkish Liras (TL).
 
-payment_method: String variable of the payment method (cash, credit card or debit card) used for the transaction.
+8. payment_method: String variable of the payment method (cash, credit card or debit card) used for the transaction.
 
-invoice_date: Invoice date. The day when a transaction was generated.
+9. invoice_date: Invoice date. The day when a transaction was generated.
 
-shopping_mall: String variable of the name of the shopping mall where the transaction was made.
+10. shopping_mall: String variable of the name of the shopping mall where the transaction was made.
 
 Problem Statement :
 
