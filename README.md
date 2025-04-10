@@ -29,3 +29,6 @@ invoice_date: Invoice date. The day when a transaction was generated.
 
 shopping_mall: String variable of the name of the shopping mall where the transaction was made.
 
+Problem Statement :
+
+The goal could be to classify gender based on the features in your dataset.
