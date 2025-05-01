@@ -1,13 +1,13 @@
 Summary of Key Steps:
-- Data Cleaning & Preprocessing:
+Data Cleaning & Preprocessing:
 - Removing unnecessary columns and handling missing values.
 - Text normalization via tokenization, stopword removal, and lemmatization.
 - Extracting special characters and removing non-alphanumeric characters.
 - Sentiment Analysis Techniques:
-- VADER Sentiment Analysis: Calculates a sentiment score for each post.
+VADER Sentiment Analysis: Calculates a sentiment score for each post.
 - Classification: Labels posts as Positive, Neutral, or Negative based on the VADER score.
 - Evaluation: Sentiment distribution is visualized using pie charts.
-- Modeling & Performance Evaluation:
+Modeling & Performance Evaluation:
 - LSTM-based deep learning model setup using Keras.
 - Data is tokenized and padded for input into the neural network.
 - Performance measured through accuracy, classification reports, and confusion matrices.
